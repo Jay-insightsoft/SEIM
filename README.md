@@ -2,7 +2,7 @@
 Repository for Siem solution deployments 
 
 # steps to deploy wazuh as a container
-- clone the repository into your server.
+- Clone the repository into your server.
 - Ensure you are in the wazuh folder. # cd ./Wazuh
 - change the script permisions: # chmod +x wazuh.sh
 - run the script: ./wazuh.sh
